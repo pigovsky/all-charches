@@ -1,6 +1,6 @@
 MENU = {
-    "Розклад Богослужінь": "https://docs.google.com/document/d/e/2PACX-1vRiXZbzC6yLChaScQPFxYBIZ4enH7qYNynOME6qwcVEN7d0NlUSfM7XjMzHEmCrjQ0bLkvnS4qFeWME/pub?embedded=true",
-    "Служителі": "https://docs.google.com/document/d/e/2PACX-1vTk4ViPH-QpKiqd8mkH-BnBozHNEWHUWuIEbhw_fbl8jAJQGhbUgLJNKO5-ldh1LcsS2y5oDz6137Hb/pub?embedded=true"
+    "Ініціативи": "https://docs.google.com/document/d/e/2PACX-1vTeYGHck4hDh8CwTlUvMxM3QGNoDDryzkbJ0GFRhEUGsV-qFI2BxPqHbGtmB20laMClyzqfohLPpgwN/pub?embedded=true",
+    "Громада": "https://docs.google.com/document/d/e/2PACX-1vRQ0zEEtaAfRj_S-ZlvquqdLoNHDnQxUE1nyPvayujfP3TeyxVwtgNS31V4pKTmbnHVjfbbKWZvB0F5/pub?embedded=true"
 }
 
 function init() {
