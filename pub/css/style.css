@@ -20,9 +20,15 @@ h2 {
 
     width:90%;
     height:100px;
-    background-color:Green;
+    background-color:DarkViolet;
     opacity: 0.7;
-    color: white;
+    color: Yellow;
+}
+.page {
+    height:200px;
+    background-color: White;
+    font-size:20px;
+    padding:15px;
 }
 .selected {
     background-color: Blue;
