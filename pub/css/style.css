@@ -25,9 +25,9 @@ h2 {
     color: Yellow;
 }
 .page {
-    height:200px;
+    height:1000px;
     background-color: White;
-    font-size:20px;
+    font-size:100px;
     padding:15px;
 }
 .selected {
