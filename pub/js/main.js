@@ -9,7 +9,7 @@ function init() {
         "el": '#app',
         "data": {
             "menu": MENU,
-            "mainContent": ""
+            "mainContent": "pages/community.html"
         },
         "methods": {
             "select": function(link) {
