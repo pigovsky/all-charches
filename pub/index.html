@@ -19,10 +19,8 @@
                 v-on:click="select(link)" v-for="(link, title) in menu">
                 {{title}}
             </div>
-            <div>
-                <a href="http://www.google.com/maps/place/49.54134528482628,25.550822317600254">
-                    Де?
-                </a>
+            <div onclick="window.open('https://goo.gl/maps/9cvFM13pc2nhyNDb6')">
+                Де?
             </div>
         </div>
         <iframe class="mainContent" :src="mainContent"></iframe>
